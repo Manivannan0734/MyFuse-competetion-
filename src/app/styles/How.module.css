@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Syncopate:wght@400;700&family=Syne:wght@400..800&display=swap');
+
+.container{
+    background-image: url("../../../public/bg.png");
+    background-repeat: repeat;
+    object-fit: fill;
+    margin-top: 1rem;
+    width:auto;
+    text-align: center;
+    height: 100%;
+    padding: 1rem;overflow: hidden;
+    font-family: "Syne", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    
+}
+.card{
+    width:80%;
+    height: 30%;
+    border-radius: 1rem;
+    color: white;
+    padding: 1rem;overflow: hidden;
+    border: 2px solid white;
+    background-color: rgb(35,45,63);
+}
+.cardcont{
+    display: flex;
+    gap: 1rem;
+    width: auto;
+    height:200%;
+    flex-direction: row;overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  
+}

@@ -1,0 +1,34 @@
+[
+    {
+
+        "img":"/delo.jpeg",
+        "name":"deloitte",
+        "desc":"Technology and IT",
+        "location":"Bengaluru",
+        "salary":"Not Disclosed",
+        "role":"Associate Analyst"
+    },
+    {
+        "img":"/air.png",
+        "name":"AIRBUS",
+        "desc":"Technology and IT",
+        "location":"Bengaluru Area",
+        "salary":"Not Disclosed",
+        "role":"Data Analyst"
+    },{
+        "img":"/b.png",
+        "name":"Bajaj Allianz",
+        "desc":"Technology and IT",
+        "location":"Pune, Maharashtra",
+        "salary":"4 – 6 LPA (Estimated)",
+        "role":"Junior Service Engineer"
+    },{
+        "img":"/a.png",
+        "name":"Amdocs",
+        "desc":"Technology and IT",
+        "location":"Pune, Maharashtra",
+        "salary":"4 – 6 LPA (Estimated)",
+        "role":"IT Professional – Windows /OS – Fresher"
+    }
+
+]

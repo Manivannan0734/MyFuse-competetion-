@@ -1,0 +1,28 @@
+{
+   "card1": {
+    "img":"/board.png",
+    "title":" Right Job For You",
+    "para":"Myfuse's comprehensive platform is designed to help you discover the right job for you."
+    }
+,
+"card2": {
+"img":"/two.png",
+"title":"One to One Coverstatiion With HR's",
+"para":"MyFuse offers the unique advantage of one-to-one conversations with HR professionals"
+    
+}
+
+,
+"card3": {
+"img":"/three.png",
+"title":"No Work Experiance required",
+"para":"Myfuse welcomes applicants with no work experience, providing valuable opportunities and resources ."
+}
+,
+"card4": {
+"img":"four.png",
+"title":"Easy To Apply",
+"para":"Myfuse's straightforward application process is designed to be easy to apply ."
+}
+
+}

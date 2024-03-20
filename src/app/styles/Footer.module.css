@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Syncopate:wght@400;700&family=Syne:wght@400..800&display=swap');
+
+.container{
+display: flex;
+font-family: "Syne", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+list-style: none;
+color: white;
+padding: 5rem;
+background-color: rgb(35,45,63);
+align-items: center;
+}
+/* InputWithButton.module.css */
+
+  .content{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    flex-direction: column;
+  }

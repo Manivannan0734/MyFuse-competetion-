@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Text:wght@100..900&display=swap');
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    background-color: rgb(35,45,63);
+    color: white;
+    height: 10vh;
+    
+    font-family: "Big Shoulders Inline Text", sans-serif;
+    font-size:larger;
+    font-weight: 900;
+    font-style: normal;
+    gap: 1.5rem;
+    width: 100%;
+  }
+  
+  .h1 {
+    
+    margin: 0;
+ 
+  }
+  
+  .nav {
+    display: flex;
+    flex-direction: row;
+    font-size: medium;
+    gap: 0.5rem;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #ffffff; /* Adjust as per your design */
+  }
+  
+  .nav a:hover {
+    color: #ff0000; /* Adjust as per your design */
+  }
+  
